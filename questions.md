@@ -4,7 +4,7 @@ Order listed is the rough question order to expect:
 
 ### Introduction
 
-Hellos, I'll be going by "Exe Virus", feel free to poke fun at the nickname
+Hello, I'll be going by "Exe Virus", feel free to poke fun at the nickname
 
 1. What is your professional/work/educational background?
 2. What kinds of games (video or otherwise) do you enjoy, and why?
