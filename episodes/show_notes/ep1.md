@@ -1,0 +1,3 @@
+# Nodecast - EP1 Talking with Benrob.mp3
+
+Show notes will be posted when a certain [game jam](https://github.com/GreenXenith/minetestgamejam/blob/master/2021/DETAILS.md) is done...
