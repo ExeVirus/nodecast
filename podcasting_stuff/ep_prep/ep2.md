@@ -6,31 +6,94 @@
 ### Intro
 - Welcome
 - Meta Discussion about what this podcast is, tries to be, Release schedule, etc.etc.
-- Introduce Today's Subjects
+- Introduce Today's Subjects:
+    - The different places online you can experience Minetest
+    - The different faces, names, and people you'll come across
 
 ### Subjects to cover
 - Minetest.net
+    - Official Minetest website. Mostly a Download button, haha, but also good marketing for Education and Features pages. Gallery is sorely outdated.
 - Dev wiki
+    - dev.minetest.net
+    - Is a wiki hosted under the minetest.net website
+    - OUT OF DATE, but still oddly enough, quite useful.
+- Player Wiki
+    - https://wiki.minetest.net/Main_Page
+    - Some cool programs for use with minetest: https://wiki.minetest.net/Programs_and_Editors
+        - Remote Media server
+        - Offline map editor
+        - Minecraft importer and converts
+        - Web based map-views of running servers
+        - Biome map viewer: Amidst for Minetest
 - Forums
+    - https://forum.minetest.net/
+    - Lots of lost gems and huge depth. Good luck finding it all though!
+    - Some players and creators exclusively exist on the forums
 - Content DB
+    - https://content.minetest.net/
+    - How it works
+        - Upload
+        - Updates
+        - Connection to Minetest
+        - Reviews
+    - Rules
+    - Technically you can host your own
+    - Ranking system! (help->Top Packages Algorithm->Scores Rest API)
+        - Interestingly enough, reviews matter a lot. Labyrinth has the least downloads for being such a top package
 - Serverlist
+    - https://servers.minetest.net/
+    - Useful for player count and server age
 - Github
     - Official Minetest
+    - Minetest Game
+        -NO LONGER IN ACTIVE DEVELOPMENT!
     - Minetest-Mods
+    - Useful to put in issues and suggestions, but make sure to search through them first
 - Gitlab (and Gitlab Documentation)
+    - Mirror, but has a great documentation search and readbility. 
 - Android app
+    - It's bad, but free. Enjoy!
 - IRC
+    - minetest
+    - minetest-dev
+    - minetest-hub
 - Matrix
+    - Minetest
 - Discord
+    - Lots of stuff on there, my main platform
+    - Run by GreenXenith and a fair amount of other staffers
 - Reddit
+    - Slowly gaining traction and use
+    - questions, shoutouts, plugs, etc.
 - Twitter, Mastodon
+    - Rubenwardy manages the twitter, never used mastodon myself
 - Youtube Channels
+    - C55 Original Videos and Channel (ha)
+    - Let's Plays
+    - Benrob
+    - MinetestVideos
+    - etc.
 - Edgy.net Hosting
-- OS Repositories (Ubuntu, Debian, etc)
+    - https://edgy1.net/
+    - Decent Service for hosting your own public server
+- OS Repositories
+    - Ubuntu 20+ uses 5.0+
+    - Debian (Bullseye) 5.3
+    - Snap Install (Latest Stable 5.4.1)
 - Rubenwardy's modding book
+    - core dev
+    - Sporadically extremely active
+    - https://rubenwardy.com/minetest_modding_book/
+    - https://rubenwardy.com/
 - On-going Game Jam
+    - Intitially seeded by MTVideos and MisterE
+    - Ends UTC Dec 21st, 2021
+    - I participated with LittleLady
+    - Helped on a team with grand_theft_box
 - Lemente using it for Education in Europe
 - Josiah using it for code competition
+- Core Devs
+- How C55 Fits in
 
 ### Outro
 - You survived listing to me, congrats
