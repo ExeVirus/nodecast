@@ -85,14 +85,14 @@
     - Sporadically extremely active
     - https://rubenwardy.com/minetest_modding_book/
     - https://rubenwardy.com/
-- On-going Game Jam
+- On-going Game Jam ( Just finished)
     - Intitially seeded by MTVideos and MisterE
     - Ends UTC Dec 21st, 2021
     - I participated with LittleLady
     - Helped on a team with grand_theft_box
 - Lemente using it for Education in Europe
 - Josiah using it for code competition
-- Core Devs
+- Core Devs https://www.minetest.net/credits/
 - How C55 Fits in
 
 ### Outro
