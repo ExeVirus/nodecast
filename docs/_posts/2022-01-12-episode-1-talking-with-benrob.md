@@ -13,7 +13,7 @@ This first Minetest episode is a fun interview between myself (ExeVirus) and Ben
 ### Benrob Bio
 _____________________________
 
-Self taught, does a lot of programming things. Likes open world and story driven games, such as Subnautica, Minecraft, and Valve Titles. Stumbled across Minetest via the Linux Mint repositories back in ~2012. Left and came back to Minetest back in ~2015. Enjoys the redstone-esque mod [Mesecons](https://content.minetest.net/packages/Jeija/mesecons/), and feels most connected with the Minetest Community of all comunnities he is a member of. 
+Self taught, does a lot of programming things. Likes open world and story driven games, such as Subnautica, Minecraft, and Valve Titles. Stumbled across Minetest via the Linux Mint repositories back in ~2012. Left and came back to Minetest back in ~2015. Enjoys the redstone-esque mod [Mesecons](https://content.minetest.net/packages/Jeija/mesecons/), and feels most connected with the Minetest Community of all communities he is a member of. 
 
 * Creator of [The Infinite IKEA](https://content.minetest.net/packages/benrob0329/ikea/) game for Minetest Engine. 
 
@@ -47,7 +47,7 @@ _______________________________
 
 - [irrlicht](https://github.com/minetest/irrlicht)
 - [Garry's Mod](https://gmod.facepunch.com/)
-- [Green Xenith's Minetest VSCode (OpenVSX) Plugin](https://open-vsx.org/extension/GreenXenith/minetest-tools)
+- [GreenXenith's Minetest VSCode (OpenVSX) Plugin](https://open-vsx.org/extension/GreenXenith/minetest-tools)
 - [watergame](https://content.minetest.net/packages/Lefty/water_game/)
 - [exile](https://content.minetest.net/packages/Mantar/exile/)
 - [boxworld3d](https://content.minetest.net/packages/Hume2/boxworld3d/)
