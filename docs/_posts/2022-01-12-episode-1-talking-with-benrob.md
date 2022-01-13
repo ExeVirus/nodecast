@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title:  "Episode 1 - Talking with Benrob"
 date:   2022-01-12
 ---
