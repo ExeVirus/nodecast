@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Episode 1 - Talking with Benrob"
-date:   2022-01-12
+permalink: ep1
+date:   2021-12-02
 ---
 
 | [Youtube](https://www.youtube.com/watch?v=zcPTeUbU6NY) | [Pcloud](https://u.pcloud.link/publink/show?code=XZlpxAXZkSHGKsq6v30QaTLssWN8lLGWKPf7) |
