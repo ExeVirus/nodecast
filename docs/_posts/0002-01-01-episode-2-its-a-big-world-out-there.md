@@ -83,7 +83,7 @@ _____________________________
 
 ### [Twitter](https://twitter.com/MinetestProject)
 - Run By Rubenwardy
-- Always looking for content to post, send a message to rubdenwardy if you have something cool to share.
+- Always looking for content to post, send a message to rubenwardy if you have something cool to share.
 
 ### [Mastodon](https://fosstodon.org/@Minetest)
 - Open Source Twitter
