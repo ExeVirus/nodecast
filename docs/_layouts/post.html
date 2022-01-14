@@ -38,7 +38,8 @@
         <div id="sidebar">
           <hr />
           <ul>
-            {% for post in site.posts %}
+            {% assign posts = site.posts | sort: 'permalink' %}
+            {% for post in posts %}
               <li><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
             {% endfor %}
           </ul>

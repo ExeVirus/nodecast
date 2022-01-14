@@ -14,6 +14,7 @@ ____
 
 ____
 
-{% for post in site.posts %}
+{% assign posts = site.posts | sort: 'permalink' %}
+{% for post in posts %}
 -  [{{ post.title }}]({{site.baseurl}}{{ post.url }})
 {% endfor %}
