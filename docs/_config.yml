@@ -39,9 +39,9 @@ podcast_album_art: /assets/img/nodecast.jpg
 podcast_title: Nodecast
 podcast_owner: JExeVirus
 podcast_email: nodecastmt@gmail.com
-podcast_category: Games
-podcast_subcategory_one: Technology
-podcast_subcategory_two: Open Source
+podcast_category: Leisure
+podcast_subcategory_one: Games
+podcast_subcategory_two: Video Games
 podcast_explicit: "no"
 podcast_author: ExeVirus
 podcast_description: A Rolling release, interview-centered Minetest podcast
