@@ -3,6 +3,12 @@ layout: post
 title:  "Episode 1 - Talking with Benrob"
 permalink: ep1
 date:   2021-12-02
+categories: podcast
+image: /assets/img/nodecast.jpg
+podcast_link: http://traffic.libsyn.com/podcast/filename.mp3
+podcast_file_size: 11.5 MB
+podcast_duration: "28:02"
+podcast_length: 13654375
 ---
 
 | [Youtube](https://www.youtube.com/watch?v=zcPTeUbU6NY) | [Pcloud](https://u.pcloud.link/publink/show?code=XZlpxAXZkSHGKsq6v30QaTLssWN8lLGWKPf7) |

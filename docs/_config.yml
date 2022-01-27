@@ -33,6 +33,21 @@ theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
+# Podcast Settings
+podcast_url: https://exevirus.github.io/nodecast/
+podcast_album_art: /assets/img/nodecast.jpg
+podcast_title: Nodecast
+podcast_owner: JExeVirus
+podcast_email: nodecastmt@gmail.com
+podcast_category: Games
+podcast_subcategory_one: Technology
+podcast_subcategory_two: Open Source
+podcast_explicit: "no"
+podcast_author: ExeVirus
+podcast_description: A Rolling release, interview-centered Minetest podcast
+podcast_summary: A Rolling release, interview-centered podcast all about being a player, community member, modder, and just about everything else in the Minetest world!
+podcast_subtitle: The Unnofficial Minetest Podcast
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
