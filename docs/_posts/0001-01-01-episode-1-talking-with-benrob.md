@@ -5,10 +5,10 @@ permalink: ep1
 date:   2021-12-02
 categories: podcast
 image: /assets/img/nodecast.jpg
-podcast_link: http://traffic.libsyn.com/podcast/filename.mp3
+podcast_link: https://archive.org/details/nodecast_ep1.mp3
 podcast_file_size: 11.5 MB
 podcast_duration: "28:02"
-podcast_length: 13654375
+podcast_length: 12059373
 ---
 
 | [Youtube](https://www.youtube.com/watch?v=zcPTeUbU6NY) | [Pcloud](https://u.pcloud.link/publink/show?code=XZlpxAXZkSHGKsq6v30QaTLssWN8lLGWKPf7) |
