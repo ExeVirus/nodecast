@@ -3,6 +3,12 @@ layout: post
 title:  "Episode 2 - It's a Big World Out There"
 permalink: ep2
 date:   2022-01-01
+categories: podcast
+image: /assets/img/nodecast.jpg
+podcast_link: https://archive.org/download/nodecast/EP2_It%27s_a_Big_World_Out_There.mp3
+podcast_file_size: 12.0 MB
+podcast_duration: "23:51"
+podcast_length: 12610867
 ---
 
 | [Youtube](https://www.youtube.com/watch?v=boGcB4H5-WA) | [Pcloud](https://u.pcloud.link/publink/show?code=XZQYoaXZ1VLNWFBUtDRIpg7GOdaj3JHT2Hyy) |

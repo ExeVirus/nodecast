@@ -3,6 +3,12 @@ layout: post
 title:  "Episode 3 - A Different Voice"
 permalink: ep3
 date:   2022-01-14
+categories: podcast
+image: /assets/img/nodecast.jpg
+podcast_link: https://archive.org/download/nodecast/EP3_A_Different_Voice.mp3
+podcast_file_size: 7.3 MB
+podcast_duration: "17:01"
+podcast_length: 7671808
 ---
 
 | [Youtube](https://www.youtube.com/watch?v=wheQr8Oiutc) | [Pcloud](https://u.pcloud.link/publink/show?code=XZH37GXZCPEoAeH3dpXKSjOfqgWG004Xcke7) |

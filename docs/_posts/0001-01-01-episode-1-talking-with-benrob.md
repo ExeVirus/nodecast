@@ -5,7 +5,7 @@ permalink: ep1
 date:   2021-12-02
 categories: podcast
 image: /assets/img/nodecast.jpg
-podcast_link: https://archive.org/download/nodecast_ep1.mp3/Nodecast_ExeVirus_EP1_Talking_with_Benrob.mp3
+podcast_link: https://archive.org/download/nodecast/EP1_Talking_with_Benrob.mp3
 podcast_file_size: 11.5 MB
 podcast_duration: "28:02"
 podcast_length: 12059373
