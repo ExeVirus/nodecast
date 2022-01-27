@@ -34,19 +34,19 @@ plugins:
   - jekyll-feed
 
 # Podcast Settings
-podcast_url: http://
-podcast_album_art: /assets/base/Whaddya-Know-Joe-Album-Art.png
-podcast_title: Whaddya Know Joe?
-podcast_owner: Joe Buhlig
-podcast_email: email@example.com
-podcast_category: Technology
-podcast_subcategory_one: Software How-To
-podcast_subcategory_two: Gadgets
+podcast_url: https://exevirus.github.io/nodecast/
+podcast_album_art: /assets/img/nodecast.jpg
+podcast_title: Nodecast
+podcast_owner: JExeVirus
+podcast_email: nodecastmt@gmail.com
+podcast_category: Games
+podcast_subcategory_one: Technology
+podcast_subcategory_two: Open Source
 podcast_explicit: "no"
-podcast_author: Joe Buhlig
-podcast_description: Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.
-podcast_summary: Joe Buhlig walks you through real life story and then breaks down the productivity tools and techniques used. It's a great way to learn how to implement the tips and tricks that you see across the web. Productivity stories from the trenches. What works and what to never try.
-podcast_subtitle: Productivity stories from the trenches. What works and what I'll never do again. Hosted by Joe Buhlig.
+podcast_author: ExeVirus
+podcast_description: A Rolling release, interview-centered Minetest podcast
+podcast_summary: A Rolling release, interview-centered podcast all about being a player, community member, modder, and just about everything else in the Minetest world!
+podcast_subtitle: The Unnofficial Minetest Podcast
 
 # Exclude from processing.
 # The following items will not be processed, by default.
