@@ -34,7 +34,7 @@ plugins:
   - jekyll-feed
 
 # Podcast Settings
-podcast_url: https://exevirus.github.io/nodecast/
+podcast_url: https://exevirus.github.io/nodecast
 podcast_album_art: /assets/img/nodecast.jpg
 podcast_title: Nodecast
 podcast_owner: JExeVirus
